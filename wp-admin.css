@@ -1,0 +1,26 @@
+#list-posts{
+	color: #FBA705;
+    background: #fff;
+}
+#list-posts p{
+	padding: 5px;
+	margin-bottom: 0;
+}
+#save{
+	background: #fba705;
+    border: 1px solid #fba705;
+    padding: 5px 10px;
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 6px 6px 18px 0 rgba(0,0,0,.3);
+    margin: 20px 0;
+}
+#categories p{
+	width: 250px;
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 5px;
+}
+#categories input[type="checkbox"]{
+	float: right;
+}
